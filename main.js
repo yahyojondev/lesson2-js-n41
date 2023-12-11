@@ -90,3 +90,46 @@
 
 // let res = a % 2 = 0;
 // console.log(res);
+
+
+// Boolean 11;
+
+// let abc = 321;
+
+// let res = abc % 2 = 1;
+// console.log(res);
+
+
+// Boolean 12;
+
+// let a = 2;
+// let b = -3;
+// let c = 3;
+
+// let res = a = c && b = c && a = b;
+// console.log(res);
+
+// Boolean 13;
+
+// let abc = 123
+
+// let res = b- a = 1 && c - b = 1 && c - a = 2;
+// console.log(res);
+
+
+
+// Boolean 14;
+
+// let abc = 123;
+// let abc = 321;
+
+// let res = b- a = 1 && c - b = 1 && c - a = 2;
+// let res = b- a = -1 && c - b = -1 && c - a = -2;
+// console.log(res);
+
+// Boolean 15;
+
+// let abc = 121;
+
+// let res = b- a = 1 && b - c = 1 && ;
+// console.log(res);

@@ -1,0 +1,5 @@
+N41 -> Javascript-Lesson 2 -> Homework -> Giithub link -> https://github.com/yahyojondev/lesson2-js-n41;
+
+                                Vercel link --> lesson2-js-n41.vercel.app ;
+;  
+
